@@ -45,6 +45,9 @@
 <a href="https://github.com/GhiathAjam/License-Plate-Recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=License-Plate-Recognition&theme=dark" />
 </a>
+<a href="https://github.com/GhiathAjam/Operating-System-Scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Operating-System-Scheduler&theme=dark" />
+</a>
 <a href="https://github.com/GhiathAjam/Regular_PDE_Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Regular_PDE_Python&theme=dark" />
 </a>
@@ -56,7 +59,8 @@
 </a>
 <a href="https://github.com/GhiathAjam/SPI_Interface">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=SPI_Interface&theme=dark" />
-</a>
+</a>  
+
 <!--  
 <a href="https://github.com/GhiathAjam/Snake-Fight-X86-2P-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Snake-Fight-X86-2P-Game" />
