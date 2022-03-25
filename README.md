@@ -74,7 +74,7 @@
 </a>
   
 <a href="https://github.com/GhiathAjam" target="_blank">
-  <img align="left" alt="hemdan's github" width="30px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175377.png?token=exp=1636316220~hmac=02dbff62487e6f0d8879215b16b11076" />
+  <img align="left" alt="Gheiath's github" width="30px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175377.png?token=exp=1636316220~hmac=02dbff62487e6f0d8879215b16b11076" />
 </a>
 
 <a href="https://www.hackerrank.com/ghiath_ajam01?hr_r=1" target="blank">
