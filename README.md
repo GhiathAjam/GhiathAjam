@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GhiathAJam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 
-## Out-Sourced Repos
+## Some Projects
 <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
 </a>
@@ -35,7 +35,7 @@
  
 <br />
  
-## Repos
+## Featured Repos
 <a href="https://github.com/GhiathAjam/MIPS-Pipeline-Processor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=MIPS-Pipeline-Processor&theme=dark" />
 </a>
