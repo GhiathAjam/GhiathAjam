@@ -27,6 +27,9 @@
 <a href="https://github.com/We2Am-BaSsem/Home-Automation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=We2Am-BaSsem&repo=Home-Automation-System&theme=dark" />
 </a>
+<a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
+</a>
 <!--
  <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
