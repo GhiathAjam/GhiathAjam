@@ -1,6 +1,8 @@
 ## About me
 - Good problem solving skills and mindset
+- Competitive Programming experience
 - Interested in & learning Cyber security
+- CTF experience
 - Interested in computer architecture
 
 <!--  
@@ -11,7 +13,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GhiathAJam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 
-## Some Projects
+## Contributed To Repos
 <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
 </a>
@@ -100,24 +102,6 @@ We used [Cypress-io](https://www.cypress.io/) for E2E Web testing amd [Appium](h
 See this [repo](https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing) Note that web testing was done solely by me.
 
 <br /> <br />
-
-## Skills
-- Problem solving & Math skills
-- Competitve programming
-- Version control (git & github)
-- Operating Systems & memory managemnt
-- Process management, communication & concurrency
-- C language 
-- Linux and bash experience
-- CTF experience
-- OOP (Object Oriented Programming)
-- C++ and Java
-- Databases & SQL
-- Computer archietecture & design
-- VHDL and Verilog
-- Image processing & opencv
-- Python language
-- Micro-controlloers & Arduino programming
 
 <br /> <br />
 ## Achievements
