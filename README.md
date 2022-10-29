@@ -32,7 +32,10 @@
 <a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
 </a>
-<!--
+ <a href="https://github.com/mostafa-elgendy22/Glassifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Glassifier&theme=dark" />
+</a>
+ <!--
  <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
 </a>
@@ -65,6 +68,9 @@
 <a href="https://github.com/GhiathAjam/SPI_Interface">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=SPI_Interface&theme=dark" />
 </a>  
+<a href="https://github.com/GhiathAjam/micromouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=micromouse&theme=dark" />
+</a>
 
 <!--  
 <a href="https://github.com/GhiathAjam/Snake-Fight-X86-2P-Game">
@@ -74,7 +80,7 @@
 
 <br /> <br />
 ## Contact
-<a href="https://www.linkedin.com/in/%D8%BA%D9%8A%D8%A7%D8%AB-%D8%B9%D8%AC%D9%85-738a85202/">
+<a href="https://www.linkedin.com/in/ghieath">
   <img align="left" alt="Gheiath's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
 </a>
   
@@ -107,5 +113,5 @@ See this [repo](https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing
 ## Achievements
 - commulative grade 88% ~= 3.7 GPA
 - TODO: add leetcode account above
-- TODO: add google past competetions, hackerrank stats & cert. , codeforces info, 
+- TODO: add google past competitions, hackerrank stats & cert. , codeforces info, 
 - TODO: add CTFs
