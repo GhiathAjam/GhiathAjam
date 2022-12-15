@@ -13,15 +13,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GhiathAJam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 
-## Contributed To Repos
+## Main Contributor in
+<a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
+</a>
 <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
 </a>
+<a href="https://github.com/mostafa-elgendy22/Glassifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Glassifier&theme=dark" />
+</a>
 <a href="https://github.com/Muhammad-saad-2000/Search-Engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-saad-2000&repo=Search-Engine&theme=dark" />
-</a>
-<a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
 </a>
 <a href="https://github.com/Ahmed-walid/WGSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-walid&repo=WGSA&theme=dark" />
@@ -29,11 +32,8 @@
 <a href="https://github.com/We2Am-BaSsem/Home-Automation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=We2Am-BaSsem&repo=Home-Automation-System&theme=dark" />
 </a>
-<a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
-</a>
- <a href="https://github.com/mostafa-elgendy22/Glassifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Glassifier&theme=dark" />
+<a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
 </a>
  <!--
  <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
@@ -112,6 +112,8 @@ See this [repo](https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing
 <br /> <br />
 ## Achievements
 - commulative grade 88% ~= 3.7 GPA
+<!--
 - TODO: add leetcode account above
 - TODO: add google past competitions, hackerrank stats & cert. , codeforces info, 
 - TODO: add CTFs
+-->
