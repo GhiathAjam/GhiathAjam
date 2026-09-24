@@ -15,29 +15,29 @@
 
 ## Main Contributor in
 <a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
 </a>
 <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
 </a>
 <a href="https://github.com/mostafa-elgendy22/Glassifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Glassifier&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Glassifier&theme=dark" />
 </a>
 <a href="https://github.com/Muhammad-saad-2000/Search-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-saad-2000&repo=Search-Engine&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Muhammad-saad-2000&repo=Search-Engine&theme=dark" />
 </a>
 <a href="https://github.com/Ahmed-walid/WGSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-walid&repo=WGSA&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Ahmed-walid&repo=WGSA&theme=dark" />
 </a>
 <a href="https://github.com/We2Am-BaSsem/Home-Automation-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=We2Am-BaSsem&repo=Home-Automation-System&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=We2Am-BaSsem&repo=Home-Automation-System&theme=dark" />
 </a>
 <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
 </a>
  <!--
  <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
 </a>
  -->
  
@@ -45,36 +45,36 @@
  
 ## Featured Repos
 <a href="https://github.com/GhiathAjam/MIPS-Pipeline-Processor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=MIPS-Pipeline-Processor&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=MIPS-Pipeline-Processor&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/Snake-Fight-X86-2P-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Snake-Fight-X86-2P-Game&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Snake-Fight-X86-2P-Game&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/License-Plate-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=License-Plate-Recognition&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=License-Plate-Recognition&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/Operating-System-Scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Operating-System-Scheduler&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Operating-System-Scheduler&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/Regular_PDE_Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Regular_PDE_Python&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Regular_PDE_Python&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/Snake_nd_Ladders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Snake_nd_Ladders&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Snake_nd_Ladders&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/AC_Circuit_Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=AC_Circuit_Solver&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=AC_Circuit_Solver&theme=dark" />
 </a>
 <a href="https://github.com/GhiathAjam/SPI_Interface">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=SPI_Interface&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=SPI_Interface&theme=dark" />
 </a>  
 <a href="https://github.com/GhiathAjam/micromouse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=micromouse&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=micromouse&theme=dark" />
 </a>
 
 <!--  
 <a href="https://github.com/GhiathAjam/Snake-Fight-X86-2P-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GhiathAjam&repo=Snake-Fight-X86-2P-Game" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Snake-Fight-X86-2P-Game" />
 </a>
 -->
 
