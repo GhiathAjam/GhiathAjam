@@ -89,7 +89,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/ghiath_ajam01?hr_r=1" target="blank">
-  <img align="left" alt="Gheiath's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+  <img align="left" alt="Gheiath's hackerrank" width="30px" src="https://www.hackerrank.com/_sherpa/assets/static/marketing/489a5473495e3d86a12f.svg" draggable="false" />
 </a>
 
 <a href="mailto:ajamghiath@gmail.com" target="blank">
