@@ -17,6 +17,10 @@
 <a href="https://github.com/mostafa-elgendy22/Crazy-Taxi">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Crazy-Taxi&theme=dark" />
 </a>
+</a>
+ <a href="https://github.com/GhiathAjam/Arabic-Tweets-Stance-And-Classification-NLP">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GhiathAjam&repo=Arabic-Tweets-Stance-And-Classification-NLP&theme=dark" />
+</a>
 <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Testing">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=SE-Project-CMP-Tumbler&repo=SE-Project-CMP-Testing&theme=dark" />
 </a>
@@ -34,7 +38,6 @@
 </a>
 <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
-</a>
  <!--
  <a href="https://github.com/mostafa-elgendy22/Restaurant-Simulation">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=mostafa-elgendy22&repo=Restaurant-Simulation&theme=dark" />
